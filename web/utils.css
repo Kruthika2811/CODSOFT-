@@ -1,0 +1,21 @@
+.text-centre{
+    text-align: center;
+    color: darkslategray;
+}
+
+.row{
+    text-align: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.b{
+text-align: center;
+}
+

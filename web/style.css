@@ -1,0 +1,47 @@
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+
+.button{
+    padding: 20px;
+    margin:0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    background-color: rgb(241, 160, 188);
+    cursor: pointer;
+}
+
+.row{
+    margin: 12px 0px;
+}
+
+.b input{
+    
+    margin: 0px;
+    padding: 10px 38px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.a{
+    border:0px solid black;
+    
+
+
+}
+
+.row{
+    width:2px solid black;
+    }
+
+.a{
+    border: 7px solid rgb(129, 5, 123);
+    max-width: 700px;
+    margin: auto;
+    height: 43vh;
+    width: 50%;
+    background-color: rgb(237, 15, 196); 
+}
+
